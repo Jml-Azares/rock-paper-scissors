@@ -38,15 +38,10 @@ body {
     height: 75vh;
 }
 
-/* #start-name {
-    background-color: #D21312;
-}
-
-#name {
-    background-color: #FFFFFF;
-} */
 #play-station {
+  margin-top: 50px;
   padding-top: 20px;
+  border-radius: 20px;
 }
 
 #result {
