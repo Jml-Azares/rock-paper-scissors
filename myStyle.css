@@ -38,32 +38,22 @@ body {
     height: 75vh;
 }
 
-#start-name {
+/* #start-name {
     background-color: #D21312;
 }
 
 #name {
     background-color: #FFFFFF;
+} */
+#play-station {
+  padding-top: 20px;
 }
-  h1 {
-    margin-top: 50px;
-  }
-  
-  #scoreboard {
-    margin-top: 30px;
-  }
-  
-  #result {
-    margin-top: 20px;
-    font-weight: bold;
-  }
-  
-  #game-buttons {
-    margin-top: 30px;
-  }
-  
-  button {
-    font-size: 16px;
-    padding: 10px 20px;
-    margin: 0 10px;
-  }  
+
+#result {
+  padding-top: 20px;
+  font-weight: bolder;
+}
+
+#game-buttons {
+  padding-top: 20px;
+}
